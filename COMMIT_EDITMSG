@@ -1,0 +1,10 @@
+Add logout and back buttons to the application navigation
+
+Adds a logout button to the far right of the navbar and a back button to the left side of the navbar (when not on the dashboard). The logout functionality resets session state and navigates to the sign-in screen.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 7b594a63-54a8-49ca-867c-14d4607b6086
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 48b51fb8-7a42-42cd-94ab-1f66ce9909d1
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/e4e8d830-b86d-4e3d-8770-6d014f6621ff/7b594a63-54a8-49ca-867c-14d4607b6086/dXeAtCi
+Replit-Helium-Checkpoint-Created: true
